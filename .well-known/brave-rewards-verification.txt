@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: folex.io
+Token: 2a6c3c22ea641756b68d137f07c7e8fe5506a415ac95ee0c4b970f370edad9c3

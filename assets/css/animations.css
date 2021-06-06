@@ -1,0 +1,30 @@
+.anim-fade-enter-active {
+  transition: all 0.4s ease;
+}
+.anim-fade-enter
+/* .slide-fade-leave-active below version 2.1.8 */ {
+  position: absolute;
+  transform: translateX(10px);
+  opacity: 0;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.3s;
+}
+
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.flipX-enter,
+.flipX-leave-to {
+  opacity: 0;
+  transform: rotateY(90deg);
+}
+
+.flipX-enter-active,
+.flipX-leave-active {
+  transition: all 0.3s;
+}
